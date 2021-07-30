@@ -8,10 +8,12 @@ Install a following requirements
      * pip install opencv-python
 
      * pip install mediapipe
+     
+     * pip install pycaw
  
  # About my project
  
- In this project i learn how to use opencv library and mediapipe library
+ In this project i learn how to use opencv library , mediapipe library , pycaw liberary.
  
  # OpenCv
  
